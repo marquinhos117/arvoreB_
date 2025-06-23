@@ -1,0 +1,500 @@
+1001,Smart TV,Acessórios
+1002,Smartphone,Armazenamento
+1003,Placa de Vídeo,Áudio
+1004,Webcam,Acessórios
+1005,Smart Speaker,Casa Inteligente
+1006,Mouse,Entretenimento
+1007,Tripé,Informática
+1008,Smartphone,Acessórios
+1009,Roteador,Áudio
+1010,Drone,Entretenimento
+1011,Smartphone,Casa Inteligente
+1012,Pen Drive,Casa Inteligente
+1013,Câmera Digital,Áudio
+1014,Carregador,Entretenimento
+1015,Memória RAM,Informática
+1016,Alarme,Periféricos
+1017,Lâmpada Inteligente,Componentes
+1018,Gabinete,Armazenamento
+1019,Headset,Áudio
+1020,Alarme,Redes
+1021,Impressora,Acessórios
+1022,Projetor,Acessórios
+1023,Cooler,Redes
+1024,Kindle,Armazenamento
+1025,Tablet,Imagem
+1026,Controle,Acessórios
+1027,Projetor,Acessórios
+1028,Jogo,Armazenamento
+1029,Smart TV,Entretenimento
+1030,Microfone,Entretenimento
+1031,Pen Drive,Acessórios
+1032,Tablet,Áudio
+1033,Sirene,Armazenamento
+1034,Mouse,Áudio
+1035,Impressora,Componentes
+1036,Memória RAM,Imagem
+1037,Smart TV,Redes
+1038,Caixa de Som,Redes
+1039,Cooler,Áudio
+1040,Soundbar,Armazenamento
+1041,Lâmpada Inteligente,Acessórios
+1042,Kindle,Periféricos
+1043,Controle,Áudio
+1044,Caixa de Som,Imagem
+1045,Projetor,Armazenamento
+1046,Smart TV,Casa Inteligente
+1047,Switch,Redes
+1048,Sirene,Informática
+1049,Switch,Informática
+1050,Fonte,Componentes
+1051,Memória RAM,Acessórios
+1052,Roteador,Entretenimento
+1053,Tomada Inteligente,Redes
+1054,Roteador,Imagem
+1055,TV,Imagem
+1056,Headset,Armazenamento
+1057,Webcam,Áudio
+1058,Sensor,Casa Inteligente
+1059,Controle,Armazenamento
+1060,Sensor,Entretenimento
+1061,Tripé,Entretenimento
+1062,TV,Redes
+1063,Switch,Periféricos
+1064,Drone,Imagem
+1065,Mouse,Informática
+1066,Scanner,Periféricos
+1067,Smart TV,Periféricos
+1068,Smart Speaker,Componentes
+1069,Kindle,Acessórios
+1070,Projetor,Componentes
+1071,Kindle,Imagem
+1072,Console,Armazenamento
+1073,Jogo,Informática
+1074,Smart Speaker,Acessórios
+1075,Smart Speaker,Casa Inteligente
+1076,Alarme,Armazenamento
+1077,Sirene,Redes
+1078,Scanner,Armazenamento
+1079,Tripé,Periféricos
+1080,Bateria,Informática
+1081,Fechadura Digital,Armazenamento
+1082,Drone,Periféricos
+1083,Drone,Acessórios
+1084,Smart TV,Armazenamento
+1085,Smart TV,Casa Inteligente
+1086,Kindle,Áudio
+1087,Headset,Redes
+1088,Alarme,Periféricos
+1089,Controle,Casa Inteligente
+1090,Notebook,Entretenimento
+1091,Fonte,Imagem
+1092,Smartphone,Acessórios
+1093,Microfone,Armazenamento
+1094,Placa de Vídeo,Informática
+1095,Placa de Vídeo,Entretenimento
+1096,Mouse,Acessórios
+1097,Fechadura Digital,Imagem
+1098,Teclado,Casa Inteligente
+1099,Sirene,Periféricos
+1100,Webcam,Imagem
+1101,Jogo,Periféricos
+1102,Processador,Casa Inteligente
+1103,Kindle,Componentes
+1104,Roteador,Casa Inteligente
+1105,Alarme,Áudio
+1106,Tomada Inteligente,Armazenamento
+1107,TV,Redes
+1108,Carregador,Casa Inteligente
+1109,Carregador,Acessórios
+1110,Placa de Vídeo,Áudio
+1111,Teclado,Redes
+1112,Smartphone,Entretenimento
+1113,Jogo,Áudio
+1114,Tablet Gráfico,Áudio
+1115,Notebook,Acessórios
+1116,Tomada Inteligente,Informática
+1117,Switch,Acessórios
+1118,Tablet,Redes
+1119,Teclado,Casa Inteligente
+1120,Placa de Vídeo,Armazenamento
+1121,Soundbar,Imagem
+1122,Roteador,Casa Inteligente
+1123,Webcam,Entretenimento
+1124,Volante,Imagem
+1125,Placa de Vídeo,Imagem
+1126,Câmera Digital,Áudio
+1127,Impressora,Acessórios
+1128,Soundbar,Componentes
+1129,Cooler,Componentes
+1130,Câmera Digital,Imagem
+1131,Fechadura Digital,Informática
+1132,Smart Speaker,Acessórios
+1133,Monitor,Componentes
+1134,Fechadura Digital,Redes
+1135,Impressora,Áudio
+1136,Pen Drive,Áudio
+1137,Controle,Imagem
+1138,Webcam,Componentes
+1139,HD Externo,Armazenamento
+1140,Bateria,Áudio
+1141,Teclado,Imagem
+1142,Jogo,Acessórios
+1143,Monitor,Casa Inteligente
+1144,Notebook,Acessórios
+1145,Alarme,Áudio
+1146,Caixa de Som,Componentes
+1147,Pulseira Fitness,Imagem
+1148,Roteador,Componentes
+1149,Monitor,Periféricos
+1150,Projetor,Informática
+1151,Projetor,Armazenamento
+1152,Bateria,Armazenamento
+1153,Tripé,Casa Inteligente
+1154,Soundbar,Imagem
+1155,Headset,Áudio
+1156,SSD,Áudio
+1157,Monitor,Entretenimento
+1158,Sensor,Casa Inteligente
+1159,Monitor,Redes
+1160,Monitor,Informática
+1161,Tablet Gráfico,Imagem
+1162,Drone,Casa Inteligente
+1163,Caixa de Som,Informática
+1164,Drone,Acessórios
+1165,HD Externo,Acessórios
+1166,Kindle,Acessórios
+1167,Smart Speaker,Áudio
+1168,TV,Acessórios
+1169,Volante,Áudio
+1170,Tablet Gráfico,Entretenimento
+1171,Tablet,Entretenimento
+1172,Mouse,Componentes
+1173,Soundbar,Entretenimento
+1174,Volante,Casa Inteligente
+1175,Fonte,Armazenamento
+1176,Roteador,Redes
+1177,Placa de Vídeo,Armazenamento
+1178,TV,Periféricos
+1179,Soundbar,Armazenamento
+1180,Bateria,Redes
+1181,Alarme,Acessórios
+1182,Notebook,Imagem
+1183,E-reader,Entretenimento
+1184,Impressora,Acessórios
+1185,Controle,Áudio
+1186,Drone,Armazenamento
+1187,Webcam,Redes
+1188,Teclado,Áudio
+1189,Microfone,Armazenamento
+1190,Caixa de Som,Imagem
+1191,Controle,Armazenamento
+1192,E-reader,Casa Inteligente
+1193,Notebook,Casa Inteligente
+1194,HD,Acessórios
+1195,Webcam,Armazenamento
+1196,Scanner,Acessórios
+1197,Sensor,Casa Inteligente
+1198,Headset,Armazenamento
+1199,SSD,Entretenimento
+1200,Roteador,Redes
+1201,Roteador,Armazenamento
+1202,Drone,Imagem
+1203,Processador,Informática
+1204,Mouse,Componentes
+1205,Memória RAM,Informática
+1206,Notebook,Redes
+1207,Sirene,Periféricos
+1208,Smart TV,Armazenamento
+1209,Caixa de Som,Imagem
+1210,Jogo,Componentes
+1211,Jogo,Informática
+1212,Scanner,Acessórios
+1213,Lâmpada Inteligente,Periféricos
+1214,Controle,Informática
+1215,Microfone,Entretenimento
+1216,Jogo,Periféricos
+1217,Tripé,Periféricos
+1218,Tablet,Armazenamento
+1219,Microfone,Informática
+1220,Cooler,Áudio
+1221,Smart Speaker,Áudio
+1222,Soundbar,Acessórios
+1223,Cooler,Casa Inteligente
+1224,Câmera Digital,Entretenimento
+1225,Sensor,Periféricos
+1226,Placa de Vídeo,Periféricos
+1227,HD Externo,Componentes
+1228,Smartphone,Periféricos
+1229,Sensor,Redes
+1230,Câmera Digital,Áudio
+1231,Memória RAM,Periféricos
+1232,Lâmpada Inteligente,Acessórios
+1233,Projetor,Informática
+1234,Relógio Inteligente,Áudio
+1235,Pen Drive,Imagem
+1236,Cooler,Armazenamento
+1237,Switch,Áudio
+1238,Smartphone,Áudio
+1239,TV,Redes
+1240,Memória RAM,Acessórios
+1241,Sirene,Armazenamento
+1242,Cooler,Casa Inteligente
+1243,TV,Casa Inteligente
+1244,Gabinete,Informática
+1245,Scanner,Armazenamento
+1246,HD Externo,Entretenimento
+1247,Processador,Informática
+1248,Impressora,Entretenimento
+1249,Tripé,Redes
+1250,Fechadura Digital,Redes
+1251,Tripé,Entretenimento
+1252,Drone,Acessórios
+1253,Projetor,Entretenimento
+1254,Pen Drive,Armazenamento
+1255,Tablet,Componentes
+1256,Notebook,Casa Inteligente
+1257,Controle,Áudio
+1258,Microfone,Componentes
+1259,Teclado,Redes
+1260,E-reader,Redes
+1261,Soundbar,Acessórios
+1262,Fechadura Digital,Armazenamento
+1263,Drone,Armazenamento
+1264,Soundbar,Componentes
+1265,Fonte,Componentes
+1266,Lâmpada Inteligente,Armazenamento
+1267,Jogo,Periféricos
+1268,Pen Drive,Componentes
+1269,Soundbar,Componentes
+1270,Smart Speaker,Periféricos
+1271,E-reader,Entretenimento
+1272,HD,Componentes
+1273,Jogo,Informática
+1274,HD,Armazenamento
+1275,Roteador,Componentes
+1276,Tablet Gráfico,Entretenimento
+1277,Home Theater,Redes
+1278,Bateria,Imagem
+1279,Carregador,Áudio
+1280,Drone,Imagem
+1281,Sensor,Periféricos
+1282,Soundbar,Acessórios
+1283,SSD,Casa Inteligente
+1284,Soundbar,Entretenimento
+1285,Gabinete,Acessórios
+1286,Alarme,Áudio
+1287,Smart Speaker,Armazenamento
+1288,Switch,Áudio
+1289,Headset,Informática
+1290,Tablet,Áudio
+1291,Relógio Inteligente,Entretenimento
+1292,Sirene,Acessórios
+1293,Bateria,Componentes
+1294,Smart TV,Entretenimento
+1295,Pen Drive,Componentes
+1296,Pulseira Fitness,Componentes
+1297,Placa de Vídeo,Periféricos
+1298,Home Theater,Informática
+1299,Alarme,Acessórios
+1300,Sirene,Componentes
+1301,Switch,Periféricos
+1302,Lâmpada Inteligente,Casa Inteligente
+1303,Bateria,Informática
+1304,Jogo,Áudio
+1305,Scanner,Imagem
+1306,Webcam,Imagem
+1307,Soundbar,Casa Inteligente
+1308,Jogo,Entretenimento
+1309,Fonte,Imagem
+1310,E-reader,Casa Inteligente
+1311,Tripé,Casa Inteligente
+1312,Carregador,Periféricos
+1313,Sensor,Imagem
+1314,Carregador,Armazenamento
+1315,Alarme,Áudio
+1316,Smart TV,Armazenamento
+1317,Sirene,Casa Inteligente
+1318,Pulseira Fitness,Áudio
+1319,Memória RAM,Imagem
+1320,Teclado,Armazenamento
+1321,Placa de Vídeo,Armazenamento
+1322,Gabinete,Redes
+1323,Controle,Acessórios
+1324,Webcam,Periféricos
+1325,Switch,Componentes
+1326,Lâmpada Inteligente,Periféricos
+1327,Tomada Inteligente,Áudio
+1328,Teclado,Componentes
+1329,Câmera Digital,Redes
+1330,Controle,Imagem
+1331,Câmera Digital,Informática
+1332,Roteador,Componentes
+1333,Projetor,Entretenimento
+1334,Lâmpada Inteligente,Informática
+1335,Alarme,Entretenimento
+1336,Projetor,Imagem
+1337,Notebook,Redes
+1338,HD,Componentes
+1339,Câmera Digital,Casa Inteligente
+1340,Sensor,Casa Inteligente
+1341,Kindle,Áudio
+1342,Pulseira Fitness,Áudio
+1343,Memória RAM,Componentes
+1344,Pulseira Fitness,Informática
+1345,Projetor,Redes
+1346,Soundbar,Componentes
+1347,Fechadura Digital,Periféricos
+1348,Bateria,Periféricos
+1349,E-reader,Casa Inteligente
+1350,Smartphone,Componentes
+1351,Tablet Gráfico,Entretenimento
+1352,Soundbar,Informática
+1353,Mouse,Componentes
+1354,Webcam,Imagem
+1355,HD Externo,Informática
+1356,Processador,Componentes
+1357,Fonte,Áudio
+1358,Bateria,Redes
+1359,Gabinete,Componentes
+1360,Memória RAM,Componentes
+1361,Processador,Acessórios
+1362,Relógio Inteligente,Informática
+1363,Sensor,Casa Inteligente
+1364,Monitor,Redes
+1365,Switch,Acessórios
+1366,Sirene,Informática
+1367,Alarme,Informática
+1368,Placa de Vídeo,Áudio
+1369,Smartphone,Entretenimento
+1370,Headset,Áudio
+1371,Webcam,Imagem
+1372,Soundbar,Acessórios
+1373,Volante,Áudio
+1374,Bateria,Armazenamento
+1375,Sirene,Redes
+1376,Caixa de Som,Entretenimento
+1377,Kindle,Acessórios
+1378,Sirene,Periféricos
+1379,HD,Acessórios
+1380,Tablet Gráfico,Informática
+1381,HD,Entretenimento
+1382,Smart Speaker,Componentes
+1383,TV,Áudio
+1384,Teclado,Entretenimento
+1385,Lâmpada Inteligente,Áudio
+1386,Impressora,Armazenamento
+1387,Smart Speaker,Entretenimento
+1388,Scanner,Entretenimento
+1389,Tablet,Redes
+1390,Controle,Componentes
+1391,Soundbar,Redes
+1392,Teclado,Casa Inteligente
+1393,Home Theater,Redes
+1394,Notebook,Componentes
+1395,Pulseira Fitness,Acessórios
+1396,Tripé,Redes
+1397,Smart TV,Imagem
+1398,Tomada Inteligente,Periféricos
+1399,Tripé,Periféricos
+1400,Fechadura Digital,Casa Inteligente
+1401,Home Theater,Armazenamento
+1402,E-reader,Casa Inteligente
+1403,Sirene,Imagem
+1404,Bateria,Componentes
+1405,Fechadura Digital,Entretenimento
+1406,Memória RAM,Redes
+1407,Placa de Vídeo,Acessórios
+1408,Memória RAM,Imagem
+1409,Placa de Vídeo,Imagem
+1410,Volante,Entretenimento
+1411,Soundbar,Componentes
+1412,Gabinete,Informática
+1413,Pulseira Fitness,Redes
+1414,HD Externo,Imagem
+1415,Roteador,Redes
+1416,Processador,Redes
+1417,Memória RAM,Entretenimento
+1418,Lâmpada Inteligente,Armazenamento
+1419,Jogo,Informática
+1420,Console,Áudio
+1421,Mouse,Áudio
+1422,Fechadura Digital,Componentes
+1423,Pulseira Fitness,Casa Inteligente
+1424,Alarme,Áudio
+1425,Lâmpada Inteligente,Imagem
+1426,Home Theater,Imagem
+1427,Carregador,Informática
+1428,Mouse,Armazenamento
+1429,Switch,Componentes
+1430,Lâmpada Inteligente,Áudio
+1431,HD,Entretenimento
+1432,Microfone,Imagem
+1433,Jogo,Casa Inteligente
+1434,Cooler,Componentes
+1435,Sensor,Casa Inteligente
+1436,Gabinete,Redes
+1437,Lâmpada Inteligente,Imagem
+1438,Memória RAM,Armazenamento
+1439,Processador,Áudio
+1440,Scanner,Áudio
+1441,Fonte,Acessórios
+1442,Sensor,Casa Inteligente
+1443,Alarme,Periféricos
+1444,Pen Drive,Áudio
+1445,Sensor,Imagem
+1446,Memória RAM,Entretenimento
+1447,Alarme,Casa Inteligente
+1448,Kindle,Armazenamento
+1449,Impressora,Áudio
+1450,SSD,Áudio
+1451,Microfone,Periféricos
+1452,HD,Informática
+1453,Tomada Inteligente,Casa Inteligente
+1454,Webcam,Armazenamento
+1455,Tablet,Informática
+1456,Jogo,Armazenamento
+1457,Lâmpada Inteligente,Periféricos
+1458,Smart TV,Imagem
+1459,Impressora,Informática
+1460,Volante,Armazenamento
+1461,Relógio Inteligente,Imagem
+1462,Carregador,Redes
+1463,HD Externo,Informática
+1464,Processador,Imagem
+1465,Scanner,Acessórios
+1466,TV,Imagem
+1467,Teclado,Entretenimento
+1468,Smart TV,Informática
+1469,Headset,Periféricos
+1470,Volante,Armazenamento
+1471,Mouse,Áudio
+1472,Scanner,Casa Inteligente
+1473,Alarme,Componentes
+1474,Kindle,Entretenimento
+1475,E-reader,Áudio
+1476,Sirene,Casa Inteligente
+1477,Projetor,Imagem
+1478,Carregador,Armazenamento
+1479,Tablet Gráfico,Componentes
+1480,HD,Entretenimento
+1481,E-reader,Informática
+1482,E-reader,Acessórios
+1483,Alarme,Áudio
+1484,Smart TV,Áudio
+1485,Processador,Acessórios
+1486,Caixa de Som,Áudio
+1487,HD Externo,Casa Inteligente
+1488,Teclado,Periféricos
+1489,Notebook,Componentes
+1490,Carregador,Entretenimento
+1491,Relógio Inteligente,Armazenamento
+1492,Tablet,Áudio
+1493,SSD,Armazenamento
+1494,Lâmpada Inteligente,Imagem
+1495,Teclado,Áudio
+1496,Processador,Entretenimento
+1497,Soundbar,Áudio
+1498,Tripé,Acessórios
+1499,Controle,Áudio
+1500,Home Theater,Periféricos
